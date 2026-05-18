@@ -10,7 +10,7 @@ This task has reinforce something important in my learning
 
 #How I will approach this henceforth
 
->If my manage say:
+>If my manager say:
  "add multiple users" 
 >I will break it down into:
 1. Collect the details of the users
